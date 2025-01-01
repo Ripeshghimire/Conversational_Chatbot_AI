@@ -1,0 +1,11 @@
+langchain
+pydantic 
+pydantic-ai
+python-dotenv
+rich
+nest-asyncio
+fastapi 
+pypdf 
+langchain_community
+sentence-transformers
+faiss-cpu

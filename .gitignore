@@ -1,0 +1,4 @@
+db_faiss/
+env/
+Pdffiles/
+.env
